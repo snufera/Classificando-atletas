@@ -1,0 +1,1 @@
+Esse programa vai solicitar uma data de nascimento ao usuário e dizer em qual categoria o indivíduo se encontra.
