@@ -1,1 +1,1 @@
-Esse programa vai solicitar uma data de nascimento ao usuário e dizer em qual categoria o indivíduo se encontra.
+Esse é um programa da "Confederação Nacional de Natação" simples mas com a aparência levemente adornada. Use ele pra descobrir, através da data de nascimento de um atleta, qual é a sua categoria.
